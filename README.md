@@ -1,8 +1,19 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=23950509)
-# Unit Deliverable 2 - Final Project GUI
-Modify this file to contain a description of your project, as well as your GUI wireframe images. You can add them to your project directory and use a relative path, or upload them to [imgur](https://imgur.com/upload).
+Unit Deliverable 2 - Final Project GUI
+Project Description
+My final project idea is a turn-based dinosaur battle game inspired by mobile dinosaur arena games. The player controls one dinosaur and battles against an enemy dinosaur. Each turn, the player receives action points that can be spent on attacking, blocking, or reserving points for a stronger future turn.
 
-Use [Markdown](https://www.markdownguide.org/basic-syntax) to format appropriately.
+The main goal is to defeat the enemy dinosaur before the player's dinosaur runs out of health. The game will use a simple point system:
 
-## GUI Wireframe
-Embed your wireframe image(s) here!
+Attack: Spend points to deal damage to the enemy.
+Block: Spend points to reduce incoming damage on the enemy's next turn.
+Reserve: Save points so the player can use more points on a later turn.
+The GUI will show both dinosaurs, their health, the current turn, available action points, and buttons for the player's choices. After each action, a message area will explain what happened, such as how much damage was dealt or blocked.
+
+Planned GUI Components
+Title label for the game name
+Player dinosaur image and health label
+Enemy dinosaur image and health label
+Action point label
+Battle message label
+Attack, Block, and Reserve buttons
+Optional restart button for when the battle ends
