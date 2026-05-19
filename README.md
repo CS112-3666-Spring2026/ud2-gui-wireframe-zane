@@ -17,3 +17,5 @@ Action point label
 Battle message label
 Attack, Block, and Reserve buttons
 Optional restart button for when the battle ends
+
+<img width="700" height="900" alt="image" src="https://github.com/user-attachments/assets/06e83c53-5cc6-4203-98da-d28ea1215188" />
